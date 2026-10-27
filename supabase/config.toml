@@ -1,0 +1,25 @@
+project_id = "meqqbjhfmrpsiqsexcif"
+
+[functions.analyze-context]
+verify_jwt = false
+
+[functions.ingest-memory]
+verify_jwt = false
+
+[functions.recall-memory]
+verify_jwt = false
+
+[functions.migrate-v1-memories]
+verify_jwt = false
+
+[functions.migrate-user-data]
+verify_jwt = false
+
+[functions.merge-team-context]
+verify_jwt = false
+
+[functions.recall-team-memory]
+verify_jwt = false
+
+[functions.chat-memories]
+verify_jwt = false
